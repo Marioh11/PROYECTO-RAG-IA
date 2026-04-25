@@ -1,5 +1,7 @@
 PROYECTO RAG
 
+(CODIGO PRINCIPAL: chat.py - Correr con: streamlit run chat.py en (venv))
+
 El presente proyecto consiste en el desarrollo de un sistema de Generación Aumentada por Recuperación (RAG, por sus siglas en inglés), diseñado específicamente para facilitar la consulta y comprensión de los 44 reglamentos que rigen nuestra institución. En un entorno donde la normativa legal es extensa y compleja, este asistente permite a los usuarios obtener respuestas precisas, inmediatas y fundamentadas en fuentes oficiales.
 
 ![Texto descriptivo](assets/diagrama.png)
